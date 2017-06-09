@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Fri Mar 31 16:28:29 KST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-015b-2343-f995-00003ae0c350 
+on database directory D:\apache-camel-2.18.2\examples\camel-example-etl\target\derby with class loader java.net.URLClassLoader@2865ba86 
+Loaded from file:/C:/Users/elink/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=D:\apache-camel-2.18.2\examples\camel-example-etl
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 31 16:28:35 KST 2017:
+Shutting down instance a816c00e-015b-2343-f995-00003ae0c350 on database directory D:\apache-camel-2.18.2\examples\camel-example-etl\target\derby with class loader java.net.URLClassLoader@2865ba86 

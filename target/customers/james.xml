@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer id="1">
+    <userName>james</userName>
+    <firstName>James</firstName>
+    <surname>Strachan</surname>
+    <city>London</city>
+</customer>
